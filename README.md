@@ -17,3 +17,6 @@ lucina
 └─ organization
    └─ your.name@company.com.jpg
 ```
+
+## Numigi email signatures
+Signatures for `numigi.com` email addresses use the photos under `numigi/numigiens_grayscale`.
