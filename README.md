@@ -1,22 +1,24 @@
 # Lucina
-Lucina is goddess of light and creation
 
-This directory aims to group the images and creations that we need to make public as a CDN in order to facilitate the use by our third-party applications.
+Lucina is the goddess of light and creation.
+
+This repository is used as a CDN to provide images for third-party applications.
 
 # Naming convention
-Photos filenames must use the following syntax:
+
+Photos files must be named using the email address as a unique identifier.
+
 ```bash
 # When processing, make sure to replace placeholders with their appropriate values.
 your.name@company.com.jpg
 ```
 
 # Usage
-Each organization has it's own `directory`, with all of the employees photos regrouped inside.
+
+Each organization uses its own directory to store employees photos.
+
 ```bash
 lucina
 └─ organization
    └─ your.name@company.com.jpg
 ```
-
-## Numigi email signatures
-Signatures for `numigi.com` email addresses use the photos under `numigi/numigiens_grayscale`.
