@@ -1,24 +1,17 @@
 # Lucina
-
-Lucina is the goddess of light and creation.
-
-This repository is used as a CDN to provide images for third-party applications.
+This repository is used as a CDN to provide images for third-party applications, email signatures and social network templates.
 
 # Naming convention
+Photos files are using `name.surname` as their filenames for a unique identifier.
 
-Photos files must be named using the email address as a unique identifier.
-
-```bash
-# When processing, make sure to replace placeholders with their appropriate values.
-your.name@company.com.jpg
-```
+New photos must follow this convention.
 
 # Usage
-
 Each organization uses its own directory to store employees photos.
 
 ```bash
 lucina
 └─ organization
-   └─ your.name@company.com.jpg
+   └─ photo_type
+      └─ name.surname.png
 ```
