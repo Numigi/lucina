@@ -13,5 +13,5 @@ Each organization uses its own directory to store employees photos.
 lucina
 └─ organization
    └─ photo_type
-      └─ name.surname.png
+      └─ firstname.lastname.png
 ```
