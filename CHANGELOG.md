@@ -1,5 +1,13 @@
 # Changelog
 
+<a name="23.6.3"></a>
+## 23.6.3 (2023-06-16)
+
+### Miscellaneous
+
+-  Additional docs in the README [[d8f07f2](https://github.com/numigi/lucina/commit/d8f07f20e281ebd6787f07dc2877dda24aaa9234)]
+
+
 <a name="23.6.2"></a>
 ## 23.6.2 (2023-06-16)
 
