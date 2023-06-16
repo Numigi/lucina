@@ -2,6 +2,16 @@
 
 To contribute to the Numigi Lucina project follow these simple steps.
 
+## Dependencies
+
+### Node.js
+
+[Node.js](https://nodejs.org/en/download) version 16.9 or newer is required for development purposes.
+
+### pnpm
+
+[pnpm](https://pnpm.io/installation) version 7.18 or newer is required for development purposes. We recommend installing it with [corepack](https://github.com/n8n-io/n8n/blob/master/CONTRIBUTING.md#corepack)
+
 ## Contributing a New Feature
 
 1. Clone the code repository
