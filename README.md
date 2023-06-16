@@ -1,17 +1,7 @@
 # Lucina
-This repository is used as a CDN to provide images for third-party applications, email signatures and social network templates.
 
-# Naming convention
-Photos files are using `firstname.lastname` as their filenames for a unique identifier.
+A project to centralize employee photos for usage in integrated workflows, web applications and email signatures.
 
-New photos must follow this convention.
+## Contributing
 
-# Usage
-Each organization uses its own directory to store employees photos.
-
-```bash
-lucina
-└─ organization
-   └─ photo_type
-      └─ firstname.lastname.png
-```
+See `CONTRIBUTING.md` for ways to get started.
