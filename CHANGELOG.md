@@ -1,10 +1,12 @@
 # Changelog
 
-<a name="23.6.1"></a>
-## 23.6.1 (2023-06-16)
+<a name="23.6.2"></a>
+## 23.6.2 (2023-06-16)
 
 ### Miscellaneous
 
+-  Add .gitignore and modify CI scripts [[3e211f7](https://github.com/Numigi/lucina/commit/3e211f780019be066a5a092a7c47e4f6847c885d)]
+-  Add CI and packaging automation [[ba5785a](https://github.com/Numigi/lucina/commit/ba5785a7e1694cf0cc85726c5dc5ed342aef9266)]
 -  Add contrib instructions [[01a6509](https://github.com/Numigi/lucina/commit/01a65097820cdf44236913c4de93628aaec7bb64)]
 -  Delete mariam.maiga.png [[996267a](https://github.com/Numigi/lucina/commit/996267a3acff124dd37a7f3da5314af94cef4038)]
 -  Delete mariam.maiga.png [[9148c8c](https://github.com/Numigi/lucina/commit/9148c8c6d95efe4fa58aa1612e89feb263e70891)]
