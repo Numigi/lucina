@@ -1,6 +1,6 @@
 # Lucina
 
-A project to centralize employee photos for usage in integrated workflows, web applications and email signatures.
+Lucina is a project to centralize employee photos for usage in integrated workflows, web applications and email signatures.
 
 ## Contributing
 
@@ -19,3 +19,7 @@ Some actions secrets are used inside the repository settings:
 
 - `GITHUB_TOKEN` - Github PAT used to publish releases and tags
 - `PERSONAL_TOKEN` - Github PAT used to publish releases and tags
+
+## Project Documentation
+
+Additional documentation for the Numigi Lucina project can be found at [docs.numi.tools](https://docs.numi.tools).
