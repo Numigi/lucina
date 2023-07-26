@@ -1,5 +1,16 @@
 # Changelog
 
+<a name="next"></a>
+## next
+
+### Miscellaneous
+
+-  Add rounded corners to the logo [[a565b4d](https://github.com/Numigi/lucina/commit/a565b4dacabad371a908fc82a9962bebeb479b46)]
+-  Add pnpm lock to gitignore [[892fb25](https://github.com/Numigi/lucina/commit/892fb251d6b9fadb693d4ef9abe4bacd2b89b349)]
+-  Add rounded corners to the logo [[1d3d78d](https://github.com/Numigi/lucina/commit/1d3d78d33902f4d9715e731cccca16b888263d82)]
+-  Add pnpm lock to gitignore [[9a6ad12](https://github.com/Numigi/lucina/commit/9a6ad12ccdb6cb873bf3fe94f2f304d0881b2de4)]
+
+
 <a name="23.6.3"></a>
 ## 23.6.3 (2023-06-16)
 
