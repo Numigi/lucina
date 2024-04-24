@@ -4,7 +4,7 @@ import re
 
 # Configuration
 src_dir = "src"
-dist_dir = "dist/numigi"
+dist_dir = "./dist/numigi"
 resolutions = [135, 512, 1024]
 
 # Create the destination folder if it does not exist
