@@ -1,6 +1,28 @@
 {
-    "version": "24.0.1",
     "name": "com.numigi.lucina",
-    "private": false,
-    "packageManager": "pnpm@8.1.0"
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Numigi/lucina.git"
+    },
+    "private": true,
+    "scripts": {
+        "prepare": "husky && git config --local core.editor cat"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@semantic-release/changelog": "^6.0.3",
+        "@semantic-release/git": "^10.0.1",
+        "@semantic-release/github": "^10.0.7",
+        "@semantic-release/npm": "^12.0.1",
+        "commitizen": "^4.3.0",
+        "cz-conventional-changelog": "^3.3.0",
+        "husky": "^9.0.11",
+        "semantic-release": "^24.0.0"
+    },
+    "config": {
+        "commitizen": {
+            "path": "./node_modules/cz-conventional-changelog"
+        }
+    }
 }
