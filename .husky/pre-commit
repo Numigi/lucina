@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 validate.py
+python3 validate.py && python resize.py
