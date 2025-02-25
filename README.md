@@ -7,7 +7,7 @@ Lucina is a project to centralize employee photos for usage in integrated workfl
 This repository uses workflows in the `.github/workflows` directory
 
 - `release.yml` - Generates a new build on pushes to the main branch. If necessary, a new version
-is released.
+is released by semantic-release.
 
 ### Secrets Management
 
